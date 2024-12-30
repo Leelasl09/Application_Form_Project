@@ -1,0 +1,33 @@
+.bg-container {
+    background-color: skyblue;
+    background-size: cover;
+    height: 110vh;
+}
+
+.main-heading {
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+
+.sub-container {
+    background-color: white;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+.gender-feild {
+    color: black;
+    font-size: 16px;
+    font-weight: normal;
+    font-family: "Roboto";
+}
+.sub-heading{
+    color:blue;
+    font-family:"Roboto";
+    font-size:25px;
+    font-weight:normal;
+}
